@@ -1,2 +1,2 @@
-# React-Certificate
-Certification Awarded After Completing the React Bootcamp
+# Certificates
+Certificates Awarded After Completing Different Courses and Trainings
